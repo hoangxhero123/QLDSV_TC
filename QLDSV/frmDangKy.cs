@@ -20,7 +20,7 @@ namespace QLDSV
         {
             InitializeComponent();
         }
-
+        // comment đang kí
         private void frmDangKy_Load(object sender, EventArgs e)
         {
             loadcbNienkhoa();
